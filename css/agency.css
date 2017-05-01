@@ -303,6 +303,7 @@ section h3.section-subheading {
   text-transform: none;
 }
 #portfolio .portfolio-item {
+  height: 268px;
   margin: 0 0 15px;
   right: 0;
 }
@@ -316,7 +317,7 @@ section h3.section-subheading {
   background: rgba(254, 209, 54, 0.9);
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 268px;
   opacity: 0;
   transition: all ease 0.5s;
   -webkit-transition: all ease 0.5s;
